@@ -6,3 +6,5 @@ function Joel(){
         </div>
     )
 }
+
+export default Joel()
